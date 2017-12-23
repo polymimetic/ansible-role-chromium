@@ -1,0 +1,31 @@
+{
+    "AllowDeletingBrowserHistory": true, 
+    "AudioCaptureAllowed": false, 
+    "AutoFillEnabled": false, 
+    "BackgroundModeEnabled": false, 
+    "BlockThirdPartyCookies": true, 
+    "BookmarkBarEnabled": true, 
+    "DefaultBrowserSettingEnabled": false, 
+    "DefaultCookiesSetting": 4, 
+    "DefaultGeolocationSetting": 2, 
+    "DefaultMediaStreamSetting": 2, 
+    "DefaultNotificationsSetting": 2, 
+    "DefaultPluginsSetting": 2, 
+    "DefaultPopupsSetting": 2, 
+    "DefaultSearchProviderEnabled": true, 
+    "DefaultSearchProviderIconURL": "https://duckduckgo.com/favicon.ico", 
+    "DefaultSearchProviderName": "DuckDuckGo", 
+    "DefaultSearchProviderSearchURL": "https://duckduckgo.com/?q={searchTerms}", 
+    "DefaultWebBluetoothGuardSetting": 2, 
+    "DeviceAllowBluetooth": false, 
+    "MetricsReportingEnabled": false, 
+    "NTPContentSuggestionsEnabled": false, 
+    "PasswordManagerEnabled": false, 
+    "RestoreOnStartup": 4, 
+    "RestoreOnStartupURLs": [
+        "https://www.startpage.com"
+    ], 
+    "SyncDisabled": true, 
+    "VideoCaptureAllowed": false, 
+    "WelcomePageOnOSUpgradeEnabled": false
+}
